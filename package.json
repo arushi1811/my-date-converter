@@ -1,6 +1,6 @@
 {
   "name": "my-date-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Components that convert time and date to user's local date-time format",
   "main": "dist/index.js",
   "files": [
